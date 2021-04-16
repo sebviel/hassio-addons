@@ -1,4 +1,7 @@
 # Changelog
+## [1.0.2a]
+### Fixed
+- Change rsn_pairwise for wpa_pairwise in hostapd.conf
 
 ## [1.0.2]
 ### Fixed
